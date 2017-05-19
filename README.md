@@ -1,6 +1,6 @@
 # Chanda's Programming Exercises
 
-# 1. Return Profile
+## 1. Return Profile
 
 **Objective**: Return an object in console like so:
 
@@ -17,12 +17,12 @@
 }
 ```
 
-## Requirements
+### Requirements
 
 * This object concatenates the users first name, middle name initial and last name
 * It also nests an object with the profile object for the "employer"
 
-# 2. Profile Function
+## 2. Profile Function
 
 **Objective**: Make a function that returns an *new* object like so:
 
@@ -39,7 +39,7 @@
 }
 ```
 
-## Requirements
+### Requirements
 
 * The function should be called like so `functionName( data1, data2, ... )`
-* When the function is called it returns a *new* profile object for that profile 
+* When the function is called it returns a *new* profile object for that profile
